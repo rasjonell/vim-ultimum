@@ -2,6 +2,8 @@
 
 Make your vim behave exactly like VS Code.
 
+![vim-ultimum screenshot](screenshot.png)
+
 Every now and then developers give `vim` a shot.
 They spend a huge amount of time configuring it to behave like a modern editor.
 Instead of wasting your precious time writing `~/.vimrc`s just install this one plugin and let it take care of the rest.
